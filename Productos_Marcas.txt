@@ -1,7 +1,7 @@
 - Productos
 
 Detergentes en polvo = Deter_Pol
-Detergente Industrial = Deter_Ind
+Detergente Industrial = Deter_Pol_Ind
 Detergentes líquidos = Deter_Liq
 Suavisante = Suav
 Jabones en Barra = Jab_Bar
