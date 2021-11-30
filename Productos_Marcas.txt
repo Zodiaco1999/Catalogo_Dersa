@@ -1,4 +1,4 @@
-- Productos
+- Productos Dersa
 
 Detergentes en polvo = Deter_Pol
 Detergente Industrial = Deter_Pol_Ind
@@ -16,7 +16,7 @@ Jabon liquido = Jab_Liq
 Abrasivos = Abrav
 Liquidos = Liq
 
-- Marcas 
+- Marcas Dersa
 
 Top
 As = As
@@ -30,3 +30,18 @@ Dterra
 Top terra = Top_Ter
 Top Expert = Top_Exp
 Top Combi = Top_Comb
+
+- Productos Grasco
+
+Margarina = Marg
+Aceite = Acit
+Mantequilla = Mant
+
+- Marcas Grasco
+
+Vivi
+Vivi Oleina = Vivi_Ole
+La fina = Fina
+Mazorca de Oro = MDO
+
+ 
