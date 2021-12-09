@@ -43,7 +43,6 @@ body{
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-	/* margin:0; */
 }
 
 .flipbook-viewport .shadow{
@@ -59,9 +58,3 @@ body{
 	box-shadow:0 0 20px #ccc;
 }
 
-.next-button .previous-button{
-	width:22px;
-	height:600px;
-	position:absolute;
-	top:0;
-}
