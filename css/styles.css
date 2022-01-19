@@ -11,16 +11,14 @@ body{
 
 .flipbook-viewport .container{
 	position:absolute;
-	top:50%;
-	left:50%;
 	margin:auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.flipbook-viewport .flipbook{
-	
-	left:-600px;
-	top:-450px;
-}
+/* .flipbook-viewport .flipbook{
+
+}  */
 
 .flipbook-viewport .page{
 	background-color:white;

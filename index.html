@@ -9,10 +9,11 @@
     <script type="text/javascript" src="lib/turn.js"></script>
 </head>
 <body>
+<button onclick="buena()">Pagina 4</button>
 <div class="flipbook-viewport">
     <div class="container">
-        <div class="flipbook">
-            <img class="hard" src="products/Catálogo_General_Portada.jpg" alt="">
+        <div id="flipbook" class="flipbook">
+            <img class="hard" src="products/Catálogo_General_Portada.jpg">
             <img src="products/Deter_Liq-Rey.jpg">
             <img src="products/Deter_Liq-Top_Ter.jpg">
             <img src="products/Deter_Liq-Top_Ter2.jpg">
@@ -20,7 +21,7 @@
             <img src="products/Deter_Liq_mnz.jpg">
             <img src="products/Deter_Pol-As.jpg">
             <img src="products/Deter_Pol-As2.jpg">
-            <img src="products/Deter_Pol-Rey_As.jpg">
+            <img id="img" src="products/Deter_Pol-Rey_As.jpg">
             <img src="products/Deter_Pol-Top.jpg">
             <img class="hard" src="products/Deter_Pol-Top_Exp.jpg">
         </div>
@@ -28,6 +29,15 @@
 </div>
 
 <script type="text/javascript" src="js/flipbook.js"></script>
+<script type="text/javascript">
+
+    function buena() {
+        $('.flipbook').turn('page', 4);
+    }
+
+
+
+</script>
 
 </body>
 </html>
