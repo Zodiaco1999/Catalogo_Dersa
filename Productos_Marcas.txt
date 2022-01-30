@@ -1,31 +1,29 @@
 - Productos Dersa
 
-Detergentes en polvo = Deter_Pol
+Abrasivos = Abrav
+Blanqueador = Blanq
+Detergente en polvo = Deter_Pol
 Detergente Industrial = Deter_Pol_Ind
-Detergentes líquidos = Deter_Liq
-Suavisante = Suav
+Detergente líquido = Deter_Liq
+Espojilla = Espon
+Suavizante = Suav
 Jabones en Barra = Jab_Bar
-Jabones en Barra Ecológicos = Jab_Bar_Eco
-Espojillas = Espon
 Lavaloza liquido = Lava_Liq
 Lavaloza = Lava
 Limpiador = Limp
-Blanqueador = Blanq
 Jabones de Tocador = Jab_Toc
 Jabon liquido = Jab_Liq
-Abrasivos = Abrav
 Liquidos = Liq
 
 - Marcas Dersa
 
-Top
-As = As
-Super Nacar = Sup_Nac
+Dersa
+Super Nácar = Sup_Nac
 Limpiador Multiusos = Limp_Mul
 Dorado = Dor
 Fresh = Dor_Fresh
 Mio
-Dterra
+DTerra
 1A
 Top terra = Top_Ter
 Top Expert = Top_Exp
